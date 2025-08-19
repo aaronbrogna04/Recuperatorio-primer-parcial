@@ -1,8 +1,3 @@
-"""
-Ejercicio 1: Dado una lista simple de python (array) de 15 superheroes realizar dos funciones recursivas:
-a)funcion recursiva  para buscar, determinar si Capitan America esta en la lista.
-b)funcion recursiva para listar los superheroes de la lista.
-"""
 superheroes = [
     "Superman",
     "Batman",
